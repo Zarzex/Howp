@@ -7,7 +7,7 @@
 <body bgcolor="skyblue" link="white" align="center">
   <p>My name is <a href="zar.htm">Zarzex</a></p>
   <hr width="100" color="yellow">
-  <p>
+  </p>
     This website is made using a mobile phone.<br>
     All thanks to Sir Bohen for teaching me this wonderful stuff.<br>
     This is very fun, apparently, this is the reason why I took Computer Science as an optional subject.
